@@ -32,7 +32,7 @@ pip install -e .
 
 ---
 
-## ✅ Prerequisites Checklist
+## ✅ Prerequisites Checklist -
 
 Before proceeding, ensure you have completed the following:
 
